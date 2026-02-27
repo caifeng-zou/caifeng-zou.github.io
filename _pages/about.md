@@ -34,4 +34,4 @@ My research interests include seismic wave propagation, full waveform inversion,
 
 Outside of research, I love badminton, music, and my dog, Bella.
 
-{% include figure.liquid path="assets/img/bella.jpg" width="300px" class="img-fluid rounded z-depth-1" alt="Bella" %}
+{% include figure.liquid path="assets/img/bella.jpg" width="200px" class="img-fluid rounded z-depth-1" alt="Bella" %}
