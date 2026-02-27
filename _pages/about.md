@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="https://scholar.google.com/citations?user=qYJoZ28AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></p>
+    <br>
     <p><a href="https://github.com/caifeng-zou" target="_blank">GitHub</a></p>
     <p>Email: <a href="mailto:czou@caltech.edu">czou@caltech.edu</a></p>
 
