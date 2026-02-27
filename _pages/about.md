@@ -28,6 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at [Caltech Seismo Lab](https://www.seismolab.caltech.edu/), advised by [Zachary E. Ross](https://ross.caltech.edu/) and [Robert W. Clayton](https://web.gps.caltech.edu/~clay/).
+I am a Ph.D. student at [Caltech Seismo Lab](https://www.seismolab.caltech.edu/), advised by [Zachary E. Ross](https://ross.caltech.edu/) and [Robert W. Clayton](https://web.gps.caltech.edu/~clay/).
 
 My research interests include seismic wave propagation, full waveform inversion, uncertainty quantification, seismic interferometry, and AI for seismology. I work with seismic data collected from urban areas and use auto- and cross-correlation to image sedimentary basins. I develop machine learning methods that are orders of magnitude faster than conventional approaches to invert for subsurface velocity structures in the greater Los Angeles region. I also develop ML methods for structural health monitoring of buildings.
+
+Outside of research, I love badminton, music, and my dog, Bella.
+
+{% include figure.liquid path="assets/img/bella.jpg" width="300px" class="img-fluid rounded z-depth-1" alt="Bella" %}
