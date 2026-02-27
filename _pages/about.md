@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: California Institute of Technology. Seismological Laboratory.
+subtitle: Seismological Laboratory, California Institute of Technology
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="https://scholar.google.com/citations?user=qYJoZ28AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></p>
-    <p><a href="https://github.com/caifeng-zou" target="_blank">GitHub</a></p>
     <p>Email: <a href="mailto:czou@caltech.edu">czou@caltech.edu</a></p>
+    <p><a href="https://github.com/caifeng-zou" target="_blank">GitHub</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
