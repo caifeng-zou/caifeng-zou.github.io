@@ -9,10 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>czou@caltech.edu</p>
-    <!-- <p>364 South Mudd</p>
-    <p>1200 E. California Blvd</p>
-    <p>Pasadena, CA 91125</p> -->
+    <p><a href="https://scholar.google.com/citations?user=qYJoZ28AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></p>
+    <p><a href="https://github.com/caifeng-zou" target="_blank">GitHub</a></p>
+    <p>Email: <a href="mailto:czou@caltech.edu">czou@caltech.edu</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -28,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. 
+I am a fourth-year 
