@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "build": "bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve --port 4444",
+    "preview": "bundle exec jekyll build && python -m http.server 4444 -d _site"
+  },
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "^1.10.0",
     "prettier": "^3.8.0"
