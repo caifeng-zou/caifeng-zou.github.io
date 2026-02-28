@@ -384,16 +384,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-was-invited-to-give-a-talk-at-the-ucla-planetary-geophysics-geochemistry-seminar-on-ambient-noise-full-waveform-inversion-with-neural-operators",
+          title: 'I was invited to give a talk at the UCLA Planetary/Geophysics/Geochemistry Seminar on...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-enforcing-reciprocity-in-operator-learning-for-seismic-wave-propagation-is-now-on-arxiv",
+          title: 'Our paper Enforcing Reciprocity in Operator Learning for Seismic Wave Propagation is now...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
