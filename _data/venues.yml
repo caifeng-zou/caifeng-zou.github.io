@@ -7,3 +7,27 @@
 
 "Vision":
   color: "#009f36"
+
+"JGR Solid Earth":
+  url: https://agupubs.onlinelibrary.wiley.com/journal/21699356
+  color: "#FF6C0C"
+
+"GJI":
+  url: https://academic.oup.com/gji
+  color: "#FF6C0C"
+
+"Geophysics":
+  url: https://pubs.geoscienceworld.org/geophysics
+  color: "#FF6C0C"
+
+"SRL":
+  url: https://pubs.geoscienceworld.org/srl
+  color: "#FF6C0C"
+
+"ICLR":
+  url: https://iclr.cc
+  color: "#FF6C0C"
+
+"arXiv":
+  url: https://arxiv.org
+  color: "#9e9e9e"
