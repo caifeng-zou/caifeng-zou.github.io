@@ -31,8 +31,9 @@ latest_posts:
 
 I am a Ph.D. candidate at [Caltech Seismo Lab](https://www.seismolab.caltech.edu/), advised by [Zachary E. Ross](https://ross.caltech.edu/) and [Robert W. Clayton](https://web.gps.caltech.edu/~clay/). I obtained my M.Sc. in Applied Computational Science and Engineering from Imperial College London and B.Sc. in Geophysics from Tongji University. 
 
-My research interests include seismic wave propagation, full waveform inversion, uncertainty quantification, seismic interferometry, and AI for seismology. I work with seismic data collected from urban areas and use auto- and cross-correlation to image sedimentary basins. I develop machine learning methods that are orders of magnitude faster than conventional approaches to invert for subsurface velocity structures in the greater Los Angeles region. 
+I develop AI tools for seismology. My research interests include seismic wave propagation, full waveform inversion, uncertainty quantification, generative modeling, and seismic interferometry. I work with seismic data collected in urban areas and use auto- and cross-correlation to image sedimentary basins. I develop machine learning methods that are orders of magnitude faster than conventional approaches to invert for subsurface velocity structures in the greater Los Angeles region. I use generative models to learn priors for posterior sampling in FWI.
 
-Outside of research, I love badminton, music, and my dog, Bella.
+Outside of research, I enjoy badminton, hiking, tennis, and music. 
 
+(Bella, my dog)
 {% include figure.liquid path="assets/img/bella.jpg" width="200px" class="img-fluid rounded z-depth-1" alt="Bella" %}
