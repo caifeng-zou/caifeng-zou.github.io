@@ -29,11 +29,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate at [Caltech Seismo Lab](https://www.seismolab.caltech.edu/), advised by [Zachary E. Ross](https://ross.caltech.edu/) and [Robert W. Clayton](https://web.gps.caltech.edu/~clay/). I obtained my M.Sc. in Applied Computational Science and Engineering from Imperial College London and B.Sc. in Geophysics from Tongji University. 
+I am a Ph.D. candidate at Caltech Seismo Lab, advised by Zachary E. Ross and Robert W. Clayton. I obtained my M.Sc. in Applied Computational Science and Engineering from Imperial College London and B.S. in Geophysics from Tongji University. 
 
 I develop AI methods for seismology, with research interests spanning seismic wave propagation, full waveform inversion (FWI), uncertainty quantification, generative modeling, and seismic interferometry. My work focuses on developing machine learning emulators (such as neural operators and transformers) that accelerate seismic wavefield simulation and inversion by orders of magnitude compared with conventional PDE solvers. I also leverage generative flow models to learn data-driven priors for Bayesian posterior sampling in FWI, enabling geologically plausible uncertainty quantification. I apply my methods on real seismic data from urban environments, with a current focus on the Los Angeles Basin, where I aim to bridge the sim-to-real gap and improve earthquake hazard assessment.
 
-Outside of research, I enjoy badminton, hiking, tennis, and music. 
+Outside of research, I enjoy badminton, crafts, hiking, tennis, and music. 
 
 (Bella, my dog)
 {% include figure.liquid path="assets/img/bella.jpg" width="200px" class="img-fluid rounded z-depth-1" alt="Bella" %}
