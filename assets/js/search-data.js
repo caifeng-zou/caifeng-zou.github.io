@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-was-invited-to-give-a-talk-at-the-ucla-planetary-geophysics-geochemistry-seminar-on-ambient-noise-full-waveform-inversion-with-neural-operators",
-          title: 'I was invited to give a talk at the UCLA Planetary/Geophysics/Geochemistry Seminar on...',
+            },},{id: "news-i-was-invited-to-give-a-talk-at-the-ucla-geophysics-seminar-on-ambient-noise-full-waveform-inversion-with-neural-operators",
+          title: 'I was invited to give a talk at the UCLA Geophysics Seminar on...',
           description: "",
           section: "News",},{id: "news-our-paper-enforcing-reciprocity-in-operator-learning-for-seismic-wave-propagation-has-been-published-in-srl",
           title: 'Our paper Enforcing Reciprocity in Operator Learning for Seismic Wave Propagation has been...',
